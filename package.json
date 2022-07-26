@@ -1,0 +1,20 @@
+{
+  "name": "practical-async-await",
+  "description": "Before & after code examples for the Practical Async/Await course",
+  "type": "module",
+  "author": "Maxim Orlov <hello@maximorlov.com> (https://maximorlov.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maximization/practical-async-await.git"
+  },
+  "homepage": "https://github.com/Maximization/practical-async-await#readme",
+  "bugs": "https://github.com/Maximization/practical-async-await/issues",
+  "dependencies": {
+    "express": "4.18.0",
+    "memoizee": "0.4.15",
+    "node-fetch": "3.2.3",
+    "p-limit": "4.0.0",
+    "rxjs": "7.5.5"
+  }
+}
