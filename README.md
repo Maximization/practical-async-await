@@ -4,7 +4,8 @@ These are the before & after code examples for [Practical Async/Await](https://m
 
 Feel free to browse through the examples and [check out the course](https://maximorlov.com/practical-async-await/) for the explanations. It has 2 modules with 16 lessons in total:
 
-## Module 1 - Async/Await Fundamentals
+**Module 1 - Async/Await Fundamentals**
+
 1. What does the async keyword do?
 2. How and when to use await
 3. What is syntax sugar?
@@ -14,7 +15,8 @@ Feel free to browse through the examples and [check out the course](https://maxi
 7. It's async all the way up
 8. Async/await inside forEach
 
-## Module 2 - Advanced Asynchronous JavaScript
+**Module 2 - Advanced Asynchronous JavaScript**
+
 9. Run parallel tasks with a concurrency limit
 10. Run complex asynchronous flows
 11. Promise.all vs Promise.allSettled
