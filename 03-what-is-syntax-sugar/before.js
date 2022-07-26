@@ -18,7 +18,7 @@ try {
   const comments = await fetchComments(firstPostId);
   const firstComment = comments[0];
 
-  console.log(firstComment.body, userId);
+  console.log(firstComment.body);
 } catch (error) {
   console.log(error);
 }
