@@ -1,3 +1,5 @@
+![Practical Async/Await, write modern asynchronous JavaScript that just works — today. Beginner & intermediate modules, 16 video lessons, bonus content.](https://maximorlov.com/images/practical-async-await-cover.png)
+
 # Practical Async/Await ⏳
 
 These are the before & after code examples for [Practical Async/Await](https://maximorlov.com/practical-async-await/), a course for writing modern asynchronous JavaScript. 🚀
