@@ -3,7 +3,7 @@
   "description": "Before & after code examples for the Practical Async/Await course",
   "type": "module",
   "author": "Maxim Orlov <hello@maximorlov.com> (https://maximorlov.com)",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "repository": {
     "type": "git",
     "url": "https://github.com/Maximization/practical-async-await.git"
